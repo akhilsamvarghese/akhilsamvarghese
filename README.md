@@ -1,4 +1,6 @@
-
+<div align="center">
+  <img src="https://64.media.tumblr.com/cca4f06484b447c0687f0325af5b38c9/428a8db1dc8ae92f-87/s1280x1920/7c751558b1d93e15c2d885cff2162ddb95059b8d.gif" alt="Animated GIF" width="1750" height="350">
+</div>
 <h1 align="center">Hi 👋, I'm Akhil Sam Varghese</h1>
 <h3 align="center">A passionate frontend developer and security enthusiast from India</h3>
 
@@ -19,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/akhil sam varghese" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akhil sam varghese" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/akhil-sam-varghese-81a652200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akhil sam varghese" height="30" width="40" /></a>
 <a href="https://instagram.com/i_akhilsamvarghese" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_akhilsamvarghese" height="30" width="40" /></a>
 </p>
 
