@@ -1,4 +1,3 @@
-[![An image of @akhilsamvarghese's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akhilsamvarghese)](https://holopin.io/@akhilsamvarghese)
 <div align="center">
   <img src="https://64.media.tumblr.com/cca4f06484b447c0687f0325af5b38c9/428a8db1dc8ae92f-87/s1280x1920/7c751558b1d93e15c2d885cff2162ddb95059b8d.gif" alt="Animated GIF" width="1750" height="350">
 </div>
@@ -34,3 +33,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akhilsamvarghese&show_icons=true&locale=en" alt="akhilsamvarghese" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akhilsamvarghese&" alt="akhilsamvarghese" /></p>
+
+[![An image of @akhilsamvarghese's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akhilsamvarghese)](https://holopin.io/@akhilsamvarghese)
