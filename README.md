@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://64.media.tumblr.com/cca4f06484b447c0687f0325af5b38c9/428a8db1dc8ae92f-87/s1280x1920/7c751558b1d93e15c2d885cff2162ddb95059b8d.gif" alt="Animated GIF" width="1750" height="350">
+  <img src="https://cdnb.artstation.com/p/assets/images/images/048/282/733/original/exceptrea-gamerroom-1-revisioned-0.gif?1649761105" alt="Animated GIF" width="1750" height="350">
 </div>
 
-<h1 align="center">Hi 👋, I'm Akhil Sam Varghese</h1>
-<h3 align="center">A passionate frontend developer and security enthusiast from India</h3>
+<h1 align="center" style="font-family: 'Aldrich', sans-serif;">Akhil Sam Varghese</h1>
+<h3 align="center">Passionate Junior Software Engineer from India, with a focus on Machine Learning and a keen interest in Cyber Security.</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=akhilsamvarghese&label=Profile%20views&color=0e75b6&style=flat" alt="akhilsamvarghese" />
@@ -15,13 +15,12 @@
   </a>
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1b6a606b-15fa-4890-9b6e-d7a838739670/dcvf5px-488fdc69-3603-4a63-81ef-fe607d4b7e66.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFiNmE2MDZiLTE1ZmEtNDg5MC05YjZlLWQ3YTgzODczOTY3MFwvZGN2ZjVweC00ODhmZGM2OS0zNjAzLTRhNjMtODFlZi1mZTYwN2Q0YjdlNjYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.QmotzZeEfdKnTFYTnGFj46icQwWzDwcIIS0r2cHvf9s">
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif?cid=6c09b952l6bj18yu7njorde3rty8ykbmk1ztntjd3u9qkr7k&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s">
 
-- 🔭 I’m currently working on **Website Vulnerability Scanner**
-- 🌱 I’m currently learning **Basics of Machine Learning**
-- 💬 Ask me about **Android, Python, Linux, SDR, PenTesting**
-- 📫 How to reach me: **akhilsamvarghese1234@gmail.com**
-- ⚡ Fun fact: **Coffee inside**
+
+- 🌱 Currently learning **Basics of Machine Learning**
+- 💬 Ask me about **Android, Python, Linux, SDR, Cybersecurity, Machine Learning, FPV Drones**
+- 📫 How to reach me: **akhilsam.v@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -63,6 +62,29 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
   </a>
 </p>
+
+<h3 align="left">Projects:</h3>
+<ul>
+  <li><strong>NIDShield:</strong> Network Intrusion Detection System using Machine Learning</li>
+  <li><strong>Website Vulnerability Scanner:</strong> Python-based terminal application</li>
+</ul>
+
+<h3 align="left">Experience:</h3>
+<ul>
+  <li><strong>Kerala Police CyberDome, Trivandrum — Cyber Security Intern:</strong> Participated in threat detection, incident response, and vulnerability assessments</li>
+  <li><strong>AiDrone Pvt. Ltd, Trivandrum — AI / ML Intern:</strong> Contributed to projects integrating drone technology with AI, focusing on applications like object identification</li>
+</ul>
+
+<h3 align="left">Volunteering:</h3>
+<ul>
+  <li><strong>cOcOn XV International Hacking and Cyber Security Conference, Kochi:</strong> Volunteered at this prestigious cybersecurity event</li>
+  <li><strong>Cyber Security Club Lead at Baselios Mathews II College of Engineering, Kollam:</strong> Organised events and initiatives to promote cybersecurity awareness</li>
+</ul>
+
+<h3 align="left">Education:</h3>
+<ul>
+  <li><strong>B.Tech in Computer Science Engineering:</strong> Baselios Mathews II College of Engineering</li>
+</ul>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akhilsamvarghese&show_icons=true&locale=en&layout=compact" alt="akhilsamvarghese" /></p>
 
