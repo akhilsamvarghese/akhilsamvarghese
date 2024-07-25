@@ -2,7 +2,7 @@
   <img src="https://cdnb.artstation.com/p/assets/images/images/048/282/733/original/exceptrea-gamerroom-1-revisioned-0.gif?1649761105" alt="Animated GIF" width="1750" height="350">
 </div>
 
-<h1 align="center" style="font-family: 'Aldrich', sans-serif;">Akhil Sam Varghese</h1>
+<h1 align="center" style="font-family: 'Aldrich', sans-serif;">Hey, i'm Akhil</h1>
 <h3 align="center">Passionate Junior Software Engineer from India, with a focus on Machine Learning and a keen interest in Cyber Security.</h3>
 
 <p align="left">
