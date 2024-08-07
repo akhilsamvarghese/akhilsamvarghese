@@ -18,6 +18,8 @@ From crafting code to pioneering innovation 👨‍💻, I’m **Akhil Sam Vargh
 
 - 🎧 Audiophile by heart, my quest for the perfect sound is never-ending. From testing the latest audio gear to curating the ultimate playlist, sound quality is my jam.
 
+- 📫 How to reach me: **akhilsam.v@gmail.com**
+
 ## 🤝 Connect with me
 
 <a href="https://www.linkedin.com/in/akhil-sam-varghese01/" target="_blank">
