@@ -1,4 +1,4 @@
-# Hi there! 👋🌟
+# Hyy there! 👋🌟
 
 From crafting code to pioneering innovation 👨‍💻, I’m **Akhil Sam Varghese**, a tech enthusiast on an exciting journey to push the boundaries of software development!
 
