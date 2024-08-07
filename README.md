@@ -1,6 +1,6 @@
 # Hi there! 👋🌟
 
-From crafting code to pioneering innovation 👨‍💻, I’m Akhil Sam Varghese, a tech enthusiast on an exciting journey to push the boundaries of software development!
+From crafting code to pioneering innovation 👨‍💻, I’m **Akhil Sam Varghese**, a tech enthusiast on an exciting journey to push the boundaries of software development!
 
 [![An image of @akhilsamvarghese's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akhilsamvarghese)](https://holopin.io/@akhilsamvarghese)
 
