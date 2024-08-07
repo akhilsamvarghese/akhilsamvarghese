@@ -36,3 +36,12 @@ From crafting code to pioneering innovation 👨‍💻, I’m Akhil Sam Varghes
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilsamvarghese&layout=compact&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akhilsamvarghese&theme=radical)
+```
+////////////////////////////
+//    ___    _____ _    __//
+//   /   |  / ___/| |  / ///
+//  / /| |  \__ \ | | / / //
+// / ___ | ___/ / | |/ /  //
+///_/  |_|/____/  |___/   //
+////////////////////////////
+```
