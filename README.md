@@ -40,15 +40,17 @@ From crafting code to pioneering innovation 👨‍💻, I’m **Akhil Sam Vargh
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akhilsamvarghese&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages" />
+      <img src="https://github-readme-stats.vercel.app/api?username=akhilsamvarghese&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhilsamvarghese&theme=radical" alt="GitHub Streak" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilsamvarghese&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages" />
     </td>
   </tr>
 </table>
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=akhilsamvarghese&show_icons=true&theme=radical)
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhilsamvarghese&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
 
 
 ```
