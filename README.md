@@ -37,7 +37,7 @@ From crafting code to pioneering innovation 👨‍💻, I’m **Akhil Sam Vargh
 
 <img src="https://skillicons.dev/icons?i=html,css,js,git,md,figma,bash,py,django,flask,anaconda,sklearn,tensorflow,selenium,react,electron,flutter,stackoverflow,raspberrypi,arduino" />
 
-**📊 GitHub Stats**
+## 📊 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=akhilsamvarghese&show_icons=true&theme=radical)
 
