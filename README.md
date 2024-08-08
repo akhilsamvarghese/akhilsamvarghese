@@ -8,7 +8,7 @@ From crafting code to pioneering innovation 👨‍💻, I’m **Akhil Sam Vargh
 
 ## ⚡ A quick introduction
 
- ⚡ Hello there! I’m Akhil Sam Varghese
+ ⚡ Hello there! I’m **Akhil Sam Varghese**.
 
 - 🌱 A Junior Software Engineer from Pathanamthitta, Kerala, passionate about tech and pristine sound quality.
 
