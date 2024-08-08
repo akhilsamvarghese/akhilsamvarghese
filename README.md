@@ -50,10 +50,6 @@ From crafting code to pioneering innovation 👨‍💻, I’m **Akhil Sam Vargh
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhilsamvarghese&theme=radical" alt="GitHub Streak" />
 
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhilsamvarghese&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
-
 ```
 .........................................................................................=@%%%%%%%%%.......................................................................................
 ......................................................................................*%%%%%%%%%%%%%%%%....................................................................................
