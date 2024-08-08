@@ -22,16 +22,15 @@ From crafting code to pioneering innovation 👨‍💻, I’m **Akhil Sam Vargh
 
 ## 🤝 Connect with me
 
-<a href="https://www.linkedin.com/in/akhil-sam-varghese01/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://medium.com/@akhilsamvarghese1234" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium">
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/i_akhilsamvarghese" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+<a href="https://www.linkedin.com/in/akhil-sam-varghese01/">
+    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://medium.com/@akhilsamvarghese1234">
+    <img src="https://img.shields.io/badge/medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/i_akhilsamvarghese">
+    <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
-
 
 ## 💻 Languages, Frameworks, Tools
 
