@@ -41,9 +41,16 @@ From crafting code to pioneering innovation 👨‍💻, I’m **Akhil Sam Vargh
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=akhilsamvarghese&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilsamvarghese&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akhilsamvarghese&theme=radical)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akhilsamvarghese&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhilsamvarghese&theme=radical" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 ```
 
 .........................................................................................=@%%%%%%%%%.......................................................................................
