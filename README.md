@@ -16,7 +16,7 @@ From crafting code to pioneering innovation 👨‍💻, I’m **Akhil Sam Vargh
 
 - 🎮 In my free time, I’m an FPV drone pilot, capturing stunning aerial footage for my Instagram, Customising my terminal, and indulging in my love for audio gear.
 
-- 🎧 Audiophile by heart, my quest for the perfect sound is never-ending. From testing the latest audio gear to curating the ultimate playlist, sound quality is my jam.
+- 🎧 Audiophile by heart, my quest for the perfect sound is never-ending. From testing the latest audio gear to curating the ultimate music library, sound quality is my jam.
 
 - 📫 How to reach me: **akhilsam.v@gmail.com**
 
