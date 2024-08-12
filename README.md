@@ -37,7 +37,7 @@ From crafting code to pioneering innovation 👨‍💻, I’m **Akhil Sam Vargh
 <img src="https://skillicons.dev/icons?i=html,css,js,git,md,figma,bash,py,django,flask,anaconda,sklearn,tensorflow,selenium,react,electron,flutter,stackoverflow,raspberrypi,arduino" />
 
 ## 📊 GitHub Stats
-<table>
+<table align="center">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=akhilsamvarghese&show_icons=true&theme=dark&hide_border=true" alt="Your GitHub stats" />
@@ -47,7 +47,9 @@ From crafting code to pioneering innovation 👨‍💻, I’m **Akhil Sam Vargh
     </td>
   </tr>
 </table>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akhilsamvarghese&theme=dark&hide_border=true" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhilsamvarghese&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
 
 
 ```
