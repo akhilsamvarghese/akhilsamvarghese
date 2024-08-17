@@ -6,7 +6,7 @@ From crafting code to pioneering innovation 👨‍💻, I’m **Akhil Sam Vargh
 
 
 
-## ⚡ A quick introduction
+## ⚡ A quick introduction.
 
  ⚡ Hello there! I’m **Akhil Sam Varghese**
 
