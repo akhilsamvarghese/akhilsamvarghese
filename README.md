@@ -37,18 +37,4 @@ From crafting code to pioneering innovation 👨‍💻, I’m **Akhil Sam Vargh
 <img src="https://skillicons.dev/icons?i=html,css,js,git,md,figma,bash,py,django,flask,anaconda,sklearn,tensorflow,selenium,react,electron,flutter,stackoverflow,raspberrypi,arduino" />
 
 ## 📊 GitHub Stats
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=akhilsamvarghese&show_icons=true&theme=dark&hide_border=true" alt="Your GitHub stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akhilsamvarghese&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" />
-    </td>
-  </tr>
-</table>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhilsamvarghese&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
-
+![Alt](https://repobeats.axiom.co/api/embed/d63e6fa65f9e48cb32f21b4af7f9f99129e25e97.svg "Repobeats analytics image")
