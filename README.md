@@ -36,5 +36,7 @@ From crafting code to pioneering innovation 👨‍💻, I’m **Akhil Sam Vargh
 
 <img src="https://skillicons.dev/icons?i=html,css,js,git,md,figma,bash,py,django,flask,anaconda,sklearn,tensorflow,selenium,react,electron,flutter,stackoverflow,raspberrypi,arduino" />
 
-## 📊 GitHub Stats
-![Alt](https://repobeats.axiom.co/api/embed/d63e6fa65f9e48cb32f21b4af7f9f99129e25e97.svg "Repobeats analytics image")
+*****
+<p align="center">
+  <img src="https://repobeats.axiom.co/api/embed/d63e6fa65f9e48cb32f21b4af7f9f99129e25e97.svg" alt="Repobeats analytics image" />
+</p>
