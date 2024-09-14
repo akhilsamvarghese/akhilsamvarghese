@@ -4,7 +4,7 @@ From crafting code to pioneering innovation 👨‍💻, I’m **Akhil Sam Vargh
 
 [![An image of @akhilsamvarghese's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akhilsamvarghese)](https://holopin.io/@akhilsamvarghese)
 
-
+*****
 
 ## ⚡ A quick introduction.
 
@@ -38,6 +38,6 @@ From crafting code to pioneering innovation 👨‍💻, I’m **Akhil Sam Vargh
 
 *****
 <p align="center">
- <img src="https://myreadme.vercel.app/api/embed/akhilsamvarghese?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<!--  <img src="https://myreadme.vercel.app/api/embed/akhilsamvarghese?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" /> -->
 <!--   <img src="https://repobeats.axiom.co/api/embed/d63e6fa65f9e48cb32f21b4af7f9f99129e25e97.svg" alt="Repobeats analytics image" /> -->
 </p>
