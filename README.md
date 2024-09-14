@@ -39,5 +39,5 @@ From crafting code to pioneering innovation 👨‍💻, I’m **Akhil Sam Vargh
 *****
 <p align="center">
  <img src="https://myreadme.vercel.app/api/embed/akhilsamvarghese?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-  <img src="https://repobeats.axiom.co/api/embed/d63e6fa65f9e48cb32f21b4af7f9f99129e25e97.svg" alt="Repobeats analytics image" />
+<!--   <img src="https://repobeats.axiom.co/api/embed/d63e6fa65f9e48cb32f21b4af7f9f99129e25e97.svg" alt="Repobeats analytics image" /> -->
 </p>
