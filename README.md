@@ -34,7 +34,7 @@ From crafting code to pioneering innovation 👨‍💻, I’m **Akhil Sam Vargh
 
 ## 💻 Languages, Frameworks, Tools
 
-<img src="https://skillicons.dev/icons?i=html,css,js,git,md,figma,bash,py,django,flask,anaconda,sklearn,tensorflow,selenium,react,electron,flutter,stackoverflow,raspberrypi,arduino" />
+<img src="https://skillicons.dev/icons?i=html,css,js,git,md,figma,bash,py,django,flask,anaconda,sklearn,tensorflow,selenium,react,raspberrypi,arduino" />
 
 *****
 <p align="center">
