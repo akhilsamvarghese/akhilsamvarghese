@@ -2,15 +2,15 @@
 
 # Hi there! 👋🏼
 
-I’m **Akhil Sam Varghese**, a tech enthusiast passionate about building innovative solutions and exploring the frontiers of software development.
+I’m **Akhil Sam Varghese** , a tech enthusiast and electronics hobbyist dedicated to designing creative solutions and venturing into the frontiers of software and hardware innovation.
 
 
 
 ## About Me 🌟
 
 - 🌱 Developer | Pathanamthitta, Kerala  
-- 💻 Skilled in: **Python**, **Web-Development**, **Datascience**, **Machine Learning**, **Cybersecurity**  
-- 🎧 Audiophile | FPV Drone Pilot | Terminal Customizer  
+- 💻 Skilled in: **Python**, **Web-Development**, **Machine Learning**, **Cybersecurity**, **Electronics**  
+- 🎧 Audiophile | FPV Drone Pilot | Electronics Hobbiest  
 
 📧 Reach me at: **akhilsam.v@gmail.com**
 
@@ -18,7 +18,15 @@ I’m **Akhil Sam Varghese**, a tech enthusiast passionate about building innova
 
 ## Connect with Me 🙌🏼
 
-<a href="https://www.linkedin.com/in/akhil-sam-varghese01/"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/linkedin.svg" alt="LinkedIn" height="40" style="filter: invert(100%);" /> </a>&nbsp;&nbsp; <a href="https://medium.com/@akhilsamvarghese1234"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/medium.svg" alt="Medium" height="40" style="filter: invert(100%);" /> </a>&nbsp;&nbsp; <a href="https://www.instagram.com/i_akhilsamvarghese"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/instagram.svg" alt="Instagram" height="40" style="filter: invert(100%);" /> </a>
+<a href="https://www.linkedin.com/in/akhil-sam-varghese01/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/linkedin.svg" alt="LinkedIn" height="40" style="fill: white;" />
+</a>&nbsp;&nbsp;
+<a href="https://medium.com/@akhilsamvarghese1234">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/medium.svg" alt="Medium" height="40" style="fill: white;" />
+</a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/i_akhilsamvarghese">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/instagram.svg" alt="Instagram" height="40" style="fill: white;" />
+</a>
 
 
 
