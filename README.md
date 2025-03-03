@@ -1,6 +1,5 @@
 
 
-# Hyy there! 👋🏼
 
 I’m **Akhil Sam Varghese** , a tech enthusiast and electronics hobbyist dedicated to designing creative solutions and venturing into the frontiers of software and hardware innovation.
 
