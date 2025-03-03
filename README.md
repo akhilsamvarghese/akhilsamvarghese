@@ -16,7 +16,7 @@ I’m **Akhil Sam Varghese** , a tech enthusiast and electronics hobbyist dedica
 
 ## Skills & Tools 💻
 
-[![My Skills](https://skillicons.dev/icons?i=py,django,flask,html,css,js,git,react,tensorflow,raspberrypi,arduino&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,flask,html,css,js,git,react,tensorflow,raspberrypi,arduino)](https://skillicons.dev)
 
 
 ## Connect with Me 🙌🏼
