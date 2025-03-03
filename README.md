@@ -33,6 +33,8 @@ I’m **Akhil Sam Varghese**, a tech enthusiast passionate about building innova
 ## Skills & Tools 💻
 
 <img src="https://skillicons.dev/icons?i=html,css,js,git,py,django,react,tensorflow,raspberrypi" />
+
+
 ## Holopin Badges✌🏼
 
 
