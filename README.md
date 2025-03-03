@@ -16,19 +16,16 @@ I’m **Akhil Sam Varghese** , a tech enthusiast and electronics hobbyist dedica
 
 ## Skills & Tools 💻
 
-<img src="https://skillicons.dev/icons?i=html,css,js,git,py,django,react,tensorflow,raspberrypi" />
+[![My Skills](https://skillicons.dev/icons?i=py,django,flask,html,css,js,git,react,tensorflow,raspberrypi,arduino&theme=light)](https://skillicons.dev)
+
 
 ## Connect with Me 🙌🏼
 
-<a href="https://www.linkedin.com/in/akhil-sam-varghese01/">
-    <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/White/LinkedIN_white.svg" alt="LinkedIn" height="40"/>
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://medium.com/@akhilsamvarghese1234">
-    <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/White/Medium_white.svg" alt="Medium" height="40" style="fill: white;" />
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/i_akhilsamvarghese">
-    <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/White/Instagram_white.svg" alt="Instagram" height="40" style="fill: white;" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&)](https://www.linkedin.com/in/akhil-sam-varghese01/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@akhilsamvarghese1234)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/i_akhilsamvarghese)
+
+
 
 
 
